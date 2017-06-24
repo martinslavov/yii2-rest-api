@@ -2,7 +2,7 @@
 
 ## Description
 
-This is REST API for Yii 2 Advanced Application Template. The template includes two tiers: front end, back end, each of which is a separate Yii application. This REST API 
+This is REST API for Yii 2 Advanced Application Template. The template includes two tiers: front end, back end, each of which is a separate Yii application.
 
 Demo
 -------
