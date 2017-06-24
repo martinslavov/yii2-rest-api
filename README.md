@@ -10,11 +10,10 @@ Demo
 You can test REST API at the following address [gallery.linux-sys-adm.com](gallery.linux-sys-adm.com). You can read, write data вith the following commands:
 
 - Get all data about Employee
-http://gallery.linux-sys-adm.com/api/employee/employee-list
+[Click Here](http://gallery.linux-sys-adm.com/api/employee/employee-list?csrf=gG773Am6J7MZW8NYsx9LPKV0P2Z4l8JynSgKquPTzQMJiJb7ee6Wyeu2QDZu4zIiiEcumzAOkfezCzXY7hUNdA==)
 
 - Search Employee by company name
-http://gallery.linux-sys-adm.com/api/employee/employee-company?company=Linux-sys-adm%20LTD
-
+[Click Here](http://gallery.linux-sys-adm.com/api/employee/employee-company?company=Linux-sys-adm%20LTD&csrf=gG773Am6J7MZW8NYsx9LPKV0P2Z4l8JynSgKquPTzQMJiJb7ee6Wyeu2QDZu4zIiiEcumzAOkfezCzXY7hUNdA==)
 
 For 'Search Employee by name' and 'Make records' and more tests you have to use this file getResponse.php.
 
