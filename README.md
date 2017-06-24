@@ -16,7 +16,7 @@ http://gallery.linux-sys-adm.com/api/employee/employee-list
 http://gallery.linux-sys-adm.com/api/employee/employee-company?company=Linux-sys-adm%20LTD
 
 
-For 'Search Employee by name' and 'Make records' and more tests you have to use getResponseRESTAPI.php
+For 'Search Employee by name' and 'Make records' and more tests you have to use this file getResponse.php.
 
 ## Setup
 
