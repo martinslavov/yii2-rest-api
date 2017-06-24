@@ -1,8 +1,10 @@
-# Yii2 REST API
+# REST API Extension for Yii2 
+==============================
 
 REST API
 
 ## Demo
+-------
 
 You can test REST API at the following address [gallery.linux-sys-adm.com](gallery.linux-sys-adm.com). You can read, write data вith the following commands:
 
@@ -17,13 +19,16 @@ For 'Search Employee by name' and 'Make records' and more tests you have to use 
 
 
 ## Description
+--------------
 
 This is REST API for Yii 2 Advanced Application Template. The template includes two tiers: front end, back end, each of which is a separate Yii application. This REST API 
 
 ## Setup
+--------
 
 First put modules folder into frontend folder. Then config an component like this in /frontend/config/main.php:
 
+```php
 return [
    	...
     'modules' => [
@@ -32,14 +37,15 @@ return [
         ],
     ],
     ...
+```
 
 ## Authors
+----------
 
-* **Martin Slavov** - *REST API* - [Martin Slavov](https://www.linkedin.com/in/slavovmartin)
-
-
+* **[Martin Slavov](https://www.linkedin.com/in/slavovmartin)** - *REST API Extension for Yii2 * - 
 
 
 ## License
+----------
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://opensource.org/licenses/MIT) file for details
